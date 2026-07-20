@@ -8,7 +8,12 @@ layout: base
   {%- endif -%}
 
   {{ content }}
-
+  
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
   
       <h2 class="navbar-label"> Menu </h2>
        <ul class="navbar">
@@ -34,8 +39,4 @@ layout: base
       </li>
       {%- endfor -%}
     </ul>
-
-      </div>
-    {%- endif %}
-  {%- endif -%}
 </div>
