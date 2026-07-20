@@ -13,23 +13,14 @@
   }
 
 // navbar style info 
-.banner {
-    height:40px;
-    width:100vw;
-    background-color:#D4F5F5;
-}
-.page-header {
- font-family: 'Times New Roman', Times, serif;
- font-weight: bold;
- color: #554348   
-}
+
 .navbar {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: #554348
-}
-.navbar ul {
-    list-style-type: none;
 }
 
 .navbar li {
@@ -37,3 +28,7 @@
     padding: 5px;
     margin-right: 10px;
 }
+
+.navbar li a:hover {
+    text-decoration: underline;
+}}
