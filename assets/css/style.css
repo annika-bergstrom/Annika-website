@@ -11,3 +11,29 @@
     background-color: antiquewhite;
     font-family: 'Times New Roman', Times, serif;
   }
+
+// navbar style info 
+.banner {
+    height:40px;
+    width:100vw;
+    background-color:#D4F5F5;
+}
+.page-header {
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ color: #554348   
+}
+.navbar {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #554348
+}
+.navbar ul {
+    list-style-type: none;
+}
+
+.navbar li {
+    display: inline;
+    padding: 5px;
+    margin-right: 10px;
+}
