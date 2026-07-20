@@ -7,5 +7,7 @@
   "minima/initialize";
 
   h1 {
-    
+    color: black;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
   }
