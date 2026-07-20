@@ -1,12 +1,13 @@
 ---
-title: Annika Bergstrom
+Title: Annika Bergstrom 
 layout: home
 ---
 
-# This is the homepage of my website
 You can find my [Resume](resume) here!
 
 [Contact me](#contact-information)
+
+<div class= homepage-bio>
 ## Bio 
 
 ## Projects 
@@ -21,5 +22,4 @@ I attendend the Macksey Symposium in 2025
 I was published in [Intarsia](https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/)
 
 ## Contact Information
-
-
+</div>

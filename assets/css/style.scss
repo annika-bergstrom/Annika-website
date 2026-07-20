@@ -11,6 +11,8 @@
     font-family: 'Times New Roman', Times, serif;
   }
 
+  //navbar formatting information 
+
 .navbar {
     display: flex;
     list-style: none;
@@ -20,9 +22,7 @@
     color: #554348
 }
 .navbar-label {
-  margin: 1rem;
-  padding: 1rem;
-
+  padding: 1.5rem;
 }
 
 .navbar li {
@@ -32,4 +32,11 @@
 
 .navbar li a:hover {
     text-decoration: underline;
+}
+
+// changing the header of the website 
+.page-heading{
+  font-family:'Times New Roman', Times, serif;
+  font-weight:800;
+  font-size:xx-large;
 }
