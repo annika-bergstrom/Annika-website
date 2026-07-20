@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: resume
+layout: base
 ---
 
 # Resume
