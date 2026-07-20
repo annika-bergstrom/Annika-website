@@ -1,1 +1,3 @@
-Hi, welcome to my github 
+---
+layout: home
+---
