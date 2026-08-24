@@ -9,14 +9,14 @@ You can find my [Resume](resume) here!
 
 
 <details>
-  <summary class="bio-summary">Bio</summary>
+  <summary class="main-summary">Bio</summary>
   
   I graduated from Bryn Mawr college with a degree in English Literature and Classical Culture and Society.
 
   </details>
-
-
-## Projects 
+<br>
+<details>
+<summary class="main-summary">Projects</summary>
 I've worked on a wide variety of projects, mostly focused in the world of literary adaptation and analysis. 
 
 I directed a production of [Antigone](antigone) in 2026 
@@ -26,6 +26,8 @@ I conducted independent research under a Hanna Holborn Gray Fellowship
 I attendend the Macksey Symposium in 2025 
 
 I was published in [Intarsia](https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/)
-
-## Contact Information
-
+</details>
+<br>
+<details>
+<summary class="main-summary">Contact Information</summary>
+</detials>
