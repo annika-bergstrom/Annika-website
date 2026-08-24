@@ -8,7 +8,8 @@ You can find my [Resume](resume) here!
 [Contact me](#contact-information)
 
 
-<details><summary><h2>Bio</h2></summary>
+<details>
+  <summary class="bio-summary">Bio</summary>
   
   I graduated from Bryn Mawr college with a degree in English Literature and Classical Culture and Society.
 
