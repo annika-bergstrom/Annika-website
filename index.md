@@ -9,11 +9,12 @@ You can find my [Resume](resume) here!
 
 
 <details>
-  <h2><summary>Bio</summary></h2>
+  <summary><h2>Bio</h2></summary>
   
   I graduated from Bryn Mawr college with a degree in English Literature and Classical Culture and Society.
 
   </details>
+
 
 ## Projects 
 I've worked on a wide variety of projects, mostly focused in the world of literary adaptation and analysis. 
