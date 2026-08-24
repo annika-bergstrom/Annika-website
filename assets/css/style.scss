@@ -5,7 +5,15 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-
+//root color scheme 
+:root {
+  --cream: #FFF8E7;
+  --black: #111111;
+  --forest: #3A693D;
+  --olive: #BBBF88;
+  --lavender: #AA91B6;
+  --slate: #37506D;
+}
   //navbar formatting information 
 
 .navbar {
@@ -13,9 +21,9 @@
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    color: #003601;
+    color: black;
     padding: 1rem;
-    background-color: bisque;
+    background-color: var(--lavender);
     gap: 1rem;
     margin: 0;
 }
@@ -30,7 +38,7 @@
 }
 .navbar li a:hover {
     text-decoration: underline;
-    color: midnightblue;
+    color: var(--slate);
 }
 
 // changing the header of the website 
