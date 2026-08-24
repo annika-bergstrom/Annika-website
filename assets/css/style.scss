@@ -23,9 +23,11 @@
 .navbar li {
     display: inline;
     list-style: none;
-    color:black;
 }
 
+.navbar li a{
+  color:black;
+}
 .navbar li a:hover {
     text-decoration: underline;
     color: midnightblue;
@@ -70,6 +72,7 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+//header style dropdown menus
 .main-summary {
    font-size: 1.5rem;   
   font-weight: bold;
