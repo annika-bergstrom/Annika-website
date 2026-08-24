@@ -2,7 +2,7 @@
 title: projects
 layout: base
 ---
-
+# Research and Projects
 <details>
   <summary class="main-summary">English Thesis</summary>
   
