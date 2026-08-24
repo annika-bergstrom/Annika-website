@@ -59,6 +59,8 @@
   text-align: center;
   background-color: #436f4c;
   font-size: 50px;
+  border-bottom: #37506D;
+  border-width: 8px;
 }
 
 .site-title {
@@ -68,8 +70,6 @@
   align-items: center;
   width: 100%;
   padding: 1rem;
-  border-bottom: #37506D;
-  border-width: 8px;
 }
 
 .site-title a {
@@ -91,9 +91,6 @@
   font-style: bold;
   width: 4em;
   padding: 0.25em;
-  border: solid;
-  border-width: 5px;
-  border-color: var(--slate);
 }
 
 .bio {
