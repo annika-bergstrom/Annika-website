@@ -3,11 +3,6 @@ Title: Annika Bergstrom
 layout: home
 ---
 
-You can find my [Resume](resume) here!
-
-[Contact me](#contact-information)
-
-
 <details class="home-dropdown">
   <summary class="main-summary">Bio</summary>
   
