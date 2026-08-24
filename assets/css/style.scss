@@ -87,6 +87,11 @@
 .bio-header {
   margin: 0.5em;
   font-style: bold;
+  background-color: var(--slate);
+  width: 8em;
+  padding: 1em;
+  border: solid;
+  border-color: var(--forest);
 }
 
 .bio {
