@@ -7,7 +7,7 @@ layout: base
   
 ## Work Experience 
   
-  ### Help Desk Student Technician
+  <h3>Help Desk Student Technician</h3>
   
 ## Education 
 

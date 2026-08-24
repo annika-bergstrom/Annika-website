@@ -21,11 +21,11 @@ I've worked on a wide variety of projects, mostly focused in the world of litera
 
 <p>I directed a production of <a href="antigone.html">Antigone</a> in 2026 </p>
 
-<p>I conducted independent research under a Hanna Holborn Gray Fellowship </p>
-
 <p>I attendend the Macksey Symposium in 2025</p>
 
 <p>I was published in <a href="https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/" target="_blank">Intarsia</a></p>
+
+<p> You can find more information about additional projects and publications of mine <a href="projects.html">here</a></p>
 
 </details>
 <br>
