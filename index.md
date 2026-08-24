@@ -4,7 +4,7 @@ layout: home
 ---
 
 
-<h1>Bio</h1> 
+<h1 class="bio">Bio</h1> 
   I graduated from Bryn Mawr college with a degree in English Literature and Classical Culture and Society. In my current work as an EAST Assistant I am interested in supporting innovative ways to display humanities research. I have a particular interest in representations of humanities research that are experimental in form, and utilize digital tools in unexpected ways. I also have experience in graphic design, critical making, and theater, which inform my current work.
 
 <br>
