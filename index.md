@@ -24,4 +24,5 @@ I've worked on a wide variety of projects, mostly focused in the world of litera
 <br>
 <details class="home-dropdown">
 <summary class="main-summary">Contact Information</summary>
+<p> You can reach me by email at either ambergstrom03@icloud.com or abergstrom@brynmawr.edu </p>
 </details>
