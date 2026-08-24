@@ -25,7 +25,7 @@ I've worked on a wide variety of projects, mostly focused in the world of litera
 
 <p>I attendend the Macksey Symposium in 2025</p>
 
-<p>I was published in <a href="https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/">Intarsia</a></p>
+<p>I was published in <a href="https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/" target="_blank">Intarsia</a></p>
 
 </details>
 <br>
