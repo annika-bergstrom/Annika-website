@@ -2,6 +2,8 @@
 ---
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica:ital@0;1&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
@@ -20,7 +22,7 @@
 .navbar {
     display: flex;
     list-style: none;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Zen Antique", serif;
     font-weight: bold;
     color: black;
     padding: 1.5rem;
@@ -79,11 +81,12 @@
 }
 
 .page-content {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Zen Antique", serif;
 }
 
 .bio-header {
   margin: 0.5em;
+  font-style: bold;
 }
 
 .bio {
