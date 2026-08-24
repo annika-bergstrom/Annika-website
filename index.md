@@ -8,14 +8,14 @@ You can find my [Resume](resume) here!
 [Contact me](#contact-information)
 
 
-<details>
+<details class="home-dropdown">
   <summary class="main-summary">Bio</summary>
   
   I graduated from Bryn Mawr college with a degree in English Literature and Classical Culture and Society.
 
   </details>
 <br>
-<details>
+<details class="home-dropdown">
 <summary class="main-summary">Projects</summary>
 I've worked on a wide variety of projects, mostly focused in the world of literary adaptation and analysis. 
 
@@ -29,6 +29,6 @@ I've worked on a wide variety of projects, mostly focused in the world of litera
 
 </details>
 <br>
-<details>
+<details class="home-dropdown">
 <summary class="main-summary">Contact Information</summary>
 </details>
