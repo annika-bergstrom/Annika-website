@@ -8,7 +8,9 @@ You can find my [Resume](resume) here!
 [Contact me](#contact-information)
 
 
-## Bio 
+## Bio <details><summary>+</summary>
+  <p>I graduated from Bryn Mawr college with a degree in English Literature and Classical Culture and Society.</p>
+  </details>
 
 ## Projects 
 I've worked on a wide variety of projects, mostly focused in the world of literary adaptation and analysis. 
