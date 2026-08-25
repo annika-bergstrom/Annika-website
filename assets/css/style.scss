@@ -17,6 +17,14 @@
   --lavender: #AA91B6;
   --slate: #37506D;
 }
+//link formatting 
+.a{
+  color:#111111
+}
+.a:hover{
+  text-decoration: underline;
+    color: var(--slate);
+}
   //navbar formatting information 
 
 .navbar {
