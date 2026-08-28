@@ -48,6 +48,8 @@ a:hover{
 
 .navbar li a{
   color:black;
+  background-color: var(--cream);
+  border-radius: 1em;
 }
 .navbar li a:hover {
     text-decoration: underline;
