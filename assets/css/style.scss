@@ -106,7 +106,7 @@ a:hover{
   border-top-width: 8px;
   border-bottom: solid;
   border-bottom-color: #faf7f2;
-  border-bottom-width: 2px;
+  border-bottom-width: 4px;
 }
 
 .site-title {
@@ -124,8 +124,8 @@ a:hover{
   text-decoration: none;
 }
 //body formatting 
-.body {
-  background-color: bisque;
+.page-content {
+  background-color: var(--cream);
 }
 
 .page-content {
