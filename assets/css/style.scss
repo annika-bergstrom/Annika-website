@@ -8,7 +8,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-//root color scheme 
+//root color scheme and shadow
 :root {
   --cream: #FFF8E7;
   --black: #111111;
@@ -16,6 +16,24 @@
   --olive: #BBBF88;
   --lavender: #AA91B6;
   --slate: #37506D;
+  --shadow-color: 281deg 16% 44%;
+  --shadow-elevation-low:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.15),
+    0.6px 0.7px 1.2px -0.7px hsl(var(--shadow-color) / 0.23),
+    1.2px 1.6px 2.6px -1.4px hsl(var(--shadow-color) / 0.3);
+  --shadow-elevation-medium:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.16),
+    1.2px 1.6px 2.6px -0.5px hsl(var(--shadow-color) / 0.22),
+    2.6px 3.6px 5.7px -1px hsl(var(--shadow-color) / 0.28),
+    5.9px 8px 12.7px -1.4px hsl(var(--shadow-color) / 0.33);
+  --shadow-elevation-high:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.17),
+    2.3px 3.2px 5.1px -0.2px hsl(var(--shadow-color) / 0.2),
+    4.3px 5.8px 9.3px -0.5px hsl(var(--shadow-color) / 0.24),
+    6.9px 9.3px 14.9px -0.7px hsl(var(--shadow-color) / 0.27),
+    10.8px 14.7px 23.4px -1px hsl(var(--shadow-color) / 0.31),
+    16.8px 22.9px 36.4px -1.2px hsl(var(--shadow-color) / 0.34),
+    25.6px 34.9px 55.5px -1.4px hsl(var(--shadow-color) / 0.38);
 }
 //link formatting 
 a{
@@ -50,10 +68,13 @@ a:hover{
   color:black;
   background-color: var(--cream);
   border-radius: 1em;
+  padding: 1em;
 }
 .navbar li a:hover {
-    text-decoration: underline;
     color: var(--slate);
+    background-color: #e3dccc;
+    box-shadow: var(--shadow-elevation-medium);
+
 }
 
 // changing the header of the website 
