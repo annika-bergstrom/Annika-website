@@ -74,6 +74,8 @@ a:hover{
   background-color: var(--cream);
   border-radius: 1em;
   padding: 0.5em;
+  border: solid;
+  border-color: var(--slate);
 }
 .navbar li a:hover {
     color: var(--slate);
@@ -102,6 +104,9 @@ a:hover{
   border-top: solid;
   border-top-color: #37506D;
   border-top-width: 8px;
+  border-bottom: solid;
+  border-bottom-color: #faf7f2;
+  border-bottom-width: 2px;
 }
 
 .site-title {
