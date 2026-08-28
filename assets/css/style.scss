@@ -68,7 +68,7 @@ a:hover{
   color:black;
   background-color: var(--cream);
   border-radius: 1em;
-  padding: 1em;
+  padding: 0.5em;
 }
 .navbar li a:hover {
     color: var(--slate);
@@ -76,6 +76,10 @@ a:hover{
     box-shadow: var(--shadow-elevation-medium);
 
 }
+.navbar li a:active {
+  box-shadow: var(--shadow-elevation-high);
+}
+
 
 // changing the header of the website 
 
