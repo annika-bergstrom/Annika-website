@@ -76,6 +76,7 @@ a:hover{
   padding: 0.5em;
   border: solid;
   border-color: var(--slate);
+  box-shadow: var(--shadow-elevation-low);
 }
 .navbar li a:hover {
   color: var(--slate);
