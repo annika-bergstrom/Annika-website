@@ -89,7 +89,8 @@ a:hover{
 
 }
 .navbar li a:active {
-  background-color: bisque;
+  background-color: rgb(240, 231, 221);
+  box-shadow: var(--shadow-elevation-low);
 }
 
 
